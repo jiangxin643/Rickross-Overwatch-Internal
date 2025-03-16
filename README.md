@@ -18,3 +18,5 @@ Aim MISC(Auto FOV/BackTrack)
 Rage(Silent Aim/Intant Aim/Anti Aim/Spin bot)
 
 MISC(Auto skill etc)
+
+![image](https://github.com/user-attachments/assets/e8d3ece3-0c7a-4316-b15c-e411e6d3478a)
