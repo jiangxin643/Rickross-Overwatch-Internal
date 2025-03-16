@@ -1,0 +1,1 @@
+cd .. && exec.bat
